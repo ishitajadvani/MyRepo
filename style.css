@@ -654,6 +654,7 @@
     transition: opacity 0.3s;
   }
   .mobile-menu.open {
+    display: flex;
     opacity: 1;
     pointer-events: all;
   }
